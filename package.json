@@ -3,6 +3,7 @@
   "repository": "https://github.com/cdr/code-server",
   "author": "Coder",
   "license": "MIT",
+  "version": "1.1140-vsc1.33.1",
   "description": "Run VS Code remotely.",
   "scripts": {
     "build:rules": "cd ./rules && tsc -p .",
